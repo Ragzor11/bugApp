@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "u100",
+      "username": "admin",
+      "fullname": "Master Adminov",
+      "password": "admin",
+      "isAdmin": true,
+      "score": 100
+    },
+    {
+      "_id": "u101",
+      "username": "denis",
+      "fullname": "Denis B",
+      "password": "123",
+      "score": 100
+    },
+    {
+        "_id": "u102",
+        "username": "test",
+        "fullname": "B Denis",
+        "password": "123",
+        "score": 100
+      }
+]
